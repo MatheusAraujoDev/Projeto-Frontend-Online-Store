@@ -99,7 +99,7 @@ class App extends React.Component {
     const { cart } = this.state;
     return (
       <div>
-        <BrowserRouter>
+        <BrowserRouter basename={ process.env.PUBLIC_URL }>
           <Switch>
             <Route exact path="/" render={ () => <Home addState={ this.addState } /> } />
             <Route
