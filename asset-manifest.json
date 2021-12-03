@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/app-toot-name/static/css/main.d04ce568.chunk.css",
-    "main.js": "/app-toot-name/static/js/main.a2e434ca.chunk.js",
-    "main.js.map": "/app-toot-name/static/js/main.a2e434ca.chunk.js.map",
-    "runtime-main.js": "/app-toot-name/static/js/runtime-main.946983d5.js",
-    "runtime-main.js.map": "/app-toot-name/static/js/runtime-main.946983d5.js.map",
-    "static/js/2.572746f5.chunk.js": "/app-toot-name/static/js/2.572746f5.chunk.js",
-    "static/js/2.572746f5.chunk.js.map": "/app-toot-name/static/js/2.572746f5.chunk.js.map",
-    "index.html": "/app-toot-name/index.html",
-    "precache-manifest.1cec9833b47e6f749b5708065c2823ac.js": "/app-toot-name/precache-manifest.1cec9833b47e6f749b5708065c2823ac.js",
-    "service-worker.js": "/app-toot-name/service-worker.js",
-    "static/css/main.d04ce568.chunk.css.map": "/app-toot-name/static/css/main.d04ce568.chunk.css.map",
-    "static/js/2.572746f5.chunk.js.LICENSE.txt": "/app-toot-name/static/js/2.572746f5.chunk.js.LICENSE.txt"
+    "main.css": "/Projeto-Frontend-Online-Store/static/css/main.d04ce568.chunk.css",
+    "main.js": "/Projeto-Frontend-Online-Store/static/js/main.75969ffd.chunk.js",
+    "main.js.map": "/Projeto-Frontend-Online-Store/static/js/main.75969ffd.chunk.js.map",
+    "runtime-main.js": "/Projeto-Frontend-Online-Store/static/js/runtime-main.5d5341bf.js",
+    "runtime-main.js.map": "/Projeto-Frontend-Online-Store/static/js/runtime-main.5d5341bf.js.map",
+    "static/js/2.572746f5.chunk.js": "/Projeto-Frontend-Online-Store/static/js/2.572746f5.chunk.js",
+    "static/js/2.572746f5.chunk.js.map": "/Projeto-Frontend-Online-Store/static/js/2.572746f5.chunk.js.map",
+    "index.html": "/Projeto-Frontend-Online-Store/index.html",
+    "precache-manifest.4b86641b3a13c830ea70fe64589b8195.js": "/Projeto-Frontend-Online-Store/precache-manifest.4b86641b3a13c830ea70fe64589b8195.js",
+    "service-worker.js": "/Projeto-Frontend-Online-Store/service-worker.js",
+    "static/css/main.d04ce568.chunk.css.map": "/Projeto-Frontend-Online-Store/static/css/main.d04ce568.chunk.css.map",
+    "static/js/2.572746f5.chunk.js.LICENSE.txt": "/Projeto-Frontend-Online-Store/static/js/2.572746f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.946983d5.js",
+    "static/js/runtime-main.5d5341bf.js",
     "static/js/2.572746f5.chunk.js",
     "static/css/main.d04ce568.chunk.css",
-    "static/js/main.a2e434ca.chunk.js"
+    "static/js/main.75969ffd.chunk.js"
   ]
 }
