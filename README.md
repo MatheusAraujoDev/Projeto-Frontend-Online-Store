@@ -1,7 +1,12 @@
 # Projeto FrontEnd Online Store
  Trata-se de um projeto que busca fazer requisições à API do Mercado Livre, e com isso trazer produtos ao usuário, podendo ele adicionar produtos ao carrinho, aumentar ou diminuir a quantidade dos produtos selecionados. Este projeto foi realizado em grupo, utilizando metodologias ágeis como Kanban, com mais 3 pessoas estudantes da Trybe.
+
+
+ [Clique para acessar o projeto](https://matheusaraujodev.github.io/Projeto-Frontend-Online-Store/?inputQuery=t%C3%AAnis)
+
  
- ![image](https://user-images.githubusercontent.com/80549950/143874118-555002ca-bbb0-4786-8a7a-ee1f10d5a24d.png)
+![image](https://user-images.githubusercontent.com/80549950/144643073-aeeec516-5075-420a-a8d0-e58185d72371.png)
+
 
 
 # Sumário
