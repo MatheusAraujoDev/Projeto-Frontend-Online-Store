@@ -12,7 +12,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https:\/\/username.github.io/app-toot-name",
+  "homepage": "https:\/\/username.github.io/Projeto-Frontend-Online-Store",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
