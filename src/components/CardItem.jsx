@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
+import './CardItem.css';
 
 class CardItem extends React.Component {
   render() {
@@ -27,11 +28,16 @@ class CardItem extends React.Component {
               key={ product.title }
             >
               <p>{product.title}</p>
-              <img src={ product.thumbnail } alt={ product.title } />
-              <p>{product.price}</p>
+              <img
+                className="card-image"
+                src={ product.thumbnail }
+                alt={ product.title }
+              />
+              <p>{`R$ ${product.price}`}</p>
             </div>
           </Link>
           <button
+            className="add-Item-Button"
             type="button"
             data-testid="product-add-to-cart"
             onClick={ () => addState(product) }

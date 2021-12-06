@@ -1,0 +1,12 @@
+.add-Item-Button {
+  background-color: lime;
+  border-radius: 10px;
+  color: black;
+  font-size: medium;
+}
+
+.card-image {
+  border: 1px solid black;
+  height: 250px;
+  width: 250px;
+}
