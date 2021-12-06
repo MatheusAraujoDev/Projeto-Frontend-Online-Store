@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
+// import './Details.css';
 
 class Details extends React.Component {
   /*
@@ -42,11 +43,12 @@ class Details extends React.Component {
 
     return (
       <div
+        className="detail-page"
         key={ product.title }
       >
         <p data-testid="product-detail-name">{product.title}</p>
-        <img src={ product.thumbnail } alt={ product.title } />
-        <p>{product.price}</p>
+        <img className="image" src={ product.thumbnail } alt={ product.title } />
+        <p>{`Preço do produto: ${product.price}`}</p>
         <button
           type="button"
           onClick={ () => addState(product) }

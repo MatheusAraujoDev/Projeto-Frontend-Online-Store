@@ -102,7 +102,7 @@ class Home extends React.Component {
             </div>
           </aside>
         </div>
-        <div>
+        <div className="products-list">
           <form className="search-bar">
             <label htmlFor="queryInput" data-testid="home-initial-message">
               Digite por um produto ou categoria.

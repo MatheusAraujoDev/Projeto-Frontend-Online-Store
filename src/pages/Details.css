@@ -1,0 +1,13 @@
+.detail-page {
+  margin: auto;
+}
+
+button {
+  margin-right: 10px;
+}
+
+.image {
+  border: 1px solid black;
+  height: 250px;
+  width: 250px;
+}

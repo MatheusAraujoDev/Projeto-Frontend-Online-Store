@@ -1,0 +1,11 @@
+.main-page {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.image {
+  border: 1px solid black;
+  height: 250px;
+  width: 250px;
+}
